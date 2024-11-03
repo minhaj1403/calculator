@@ -37,5 +37,15 @@ body {
     gap: 10px;
 }
 
+.button {
+    padding: 15px 25px;
+    transition: background-color 0.2s;
+    border-radius: 8px;
+}
+
+.button:active {
+    background-color: grey;
+}
+
 
 
